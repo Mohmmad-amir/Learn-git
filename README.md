@@ -1,8 +1,7 @@
 # Learn-git
 This is my learn git repository which for learn git
-
-
-
+this is checking for pull code with git
+_____________________________________________________
 mkdir = make a new directory in git.
 cd =  to change the current directory in git.
 git init =  to install empty git repository.
@@ -37,5 +36,6 @@ git push --set-upstream origin master = to push code to github
 git fetch origin = for update local file or for fetch others code
 git log origin/master = to check all log in a branch
 git merge origin/master  = for fetch code
+git pull origin = for pull code from github.
 
 
