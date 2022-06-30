@@ -36,4 +36,6 @@ git remote add origin = connect with github.
 git push --set-upstream origin master = to push code to github
 git fetch origin = for update local file or for fetch others code
 git log origin/master = to check all log in a branch
+git merge origin/master  = for fetch code
+
 
